@@ -55,7 +55,7 @@ This project identifies high-risk loan profiles by evaluating critical borrower 
 2. Formed standalone quick-view reporting charts using the initial bucketing scripts to establish an analytical baseline.
 
 #### Excel Dashboard Mockup
-![Excel Dashboard Visualizations](https://github.com)
+![Excel Dashboard Visualizations](https://github.com/deepika-analyst/loan_default_risk_analysis/blob/main/Screenshot.png)
 *Figure 1: Initial analysis charts detailing Employment Status, Correlation Analysis, Loan Purpose, DTI Ratio, Credit Score pie charts, and Interest Rate distributions.*
 
 ### Phase 3: Power BI Data Modeling & Visualizations
