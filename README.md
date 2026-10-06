@@ -76,7 +76,7 @@ This project identifies high-risk loan profiles by evaluating critical borrower 
 5. Rendered a fully interactive analytical UI built with dynamic slicers filtering by **Credit Score Tiers** and **Credit Term Lengths**.
 
 #### Power BI Dashboard Mockup
-![Power BI Interactive Dashboard](https://github.com)
+![Power BI Interactive Dashboard](https://github.com/deepika-analyst/loan_default_risk_analysis/blob/main/Screenshot%20(322).png)
 *Figure 2: Final Power BI UI design displaying executive KPIs, Correlation charts, DTI vs. Default Rate scatters, and multi-tier filters.*
 
 ---
