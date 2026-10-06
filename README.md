@@ -1,8 +1,5 @@
 # Loan Default Risk Analysis Project Report
 
-[![Data Source: Analyst Builder](https://shields.io)](https://analystbuilder.com)
-[![Tools: SQL | Excel | Power BI](https://shields.io)](#tools-used)
-
 An end-to-end data analytics project that cleans, structures, and visualizes financial loan metrics to uncover the key drivers behind **loan defaults**. The analysis transitions from raw data processing using **SQL** and **Excel** to advanced data modeling and interactive visualization in **Power BI**.
 
 ---
@@ -98,7 +95,7 @@ This project identifies high-risk loan profiles by evaluating critical borrower 
 
 ---
 
-## 📈 Key Insights & Statistical Findings
+## Key Insights & Statistical Findings
 
 * **The Credit Score Impact:** Borrowers with credit scores **below 580** exhibit the highest density of default records, showing a powerful negative correlation factor of **-0.29**.
 * **Interest Rate Leverage:** Loan risk profiles increase proportionally with higher interest rates. The default concentration maximizes decisively within the **14-15% and above** range brackets.
@@ -116,4 +113,6 @@ Based on the statistical correlations and empirical visual findings within the a
    Strictly restrict loan approval or require mandatory secondary collateral evaluations once an applicant's DTI ratio crosses the **60% boundary marker**, as this segment shows exponential default acceleration.
 3. **Restructure High Interest Rate Underwriting Strategy:** 
    Review pricing structures for high-interest offerings. Because the default concentration maximizes within the **14-15% and above range**, these higher yields are currently offset by massive capital losses (\$3.30M total default capital). High-interest pricing guidelines should incorporate tighter down-payment requirements.
+
+Data Source: Analyst Builder Projects
 
